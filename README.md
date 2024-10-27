@@ -24,7 +24,6 @@
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-<img alt="AJAX" src="https://img.shields.io/badge/-AJAX-0085CA?style=flat-square&logo=ajax&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </p>
