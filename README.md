@@ -22,6 +22,10 @@
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="AJAX" src="https://img.shields.io/badge/-AJAX-0085CA?style=flat-square&logo=ajax&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </p>
 <hr/>
