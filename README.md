@@ -1,12 +1,22 @@
 <h2 align="left">Hi 👋! My name is Ayoub Bourhfella, and I'm a Full-Stack Web Developer from Kenitra, Morocco. 😊</h2>
 
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyoubBourhfella.AyoubBourhfella&"  />
+  <img src="https://komarev.com/ghpvc/?username=Ayoub-b1&color=blue&label=visitors" alt="Profile views counter">
 </div>
 
 ###
+
+<ul>
+  <li>🌍 From : Kenitra, Morocco</li>
+  <li>🧠 Full Stack & Mobile Developer</li>
+  <li>✉️ Contact: ayoub.bourhfella1@gmail.com</li>
+  <li>👨‍💻Porfolio: https://ayoub-one.vercel.app </li>
+</ul>
+
+
+###
+
 
 <div align="center">
   <a href="https://www.instagram.com/____ayoub_b/" target="_blank">
@@ -23,11 +33,7 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
-
-###
+<h3>When I code, I rely on</h3>
 
 <br clear="both">
 
@@ -93,8 +99,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/AyoubBourhfella/AyoubBourhfella/output/snake.svg" alt="Snake animation" />
-
-###
